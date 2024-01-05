@@ -6,7 +6,8 @@ Insurance provides a range of services, including inventory management, shippin
 Insurance data analytics is the collection and analysis of insurance-related data to mine actionable insights that can help drive business decisions. Data and analytics have driven pricing and claims-related business decisions. Now with the proliferation of big data, more and more insurance companies are mining and using this data to predict what will happen to their businesses in the future—and to drive decisions that will positively affect these outcomes.
 
 ![Insurance_Excel](https://github.com/shanukumar007/Integrated-Analysis-of-Insurance-Operations-for-Enhanced-Efficiency/assets/144050399/de35b64d-76b0-4cfe-af19-49be04d83115)
-![Insurance_Tableau](https://github.com/shanukumar007/Integrated-Analysis-of-Insurance-Operations-for-Enhanced-Efficiency/assets/144050399/90d9b303-80a8-4899-865b-d89b3a61abfd)
+![Insurance_Power](https://github.com/shanukumar007/Integrated-Analysis-of-Insurance-Operations-for-Enhanced-Efficiency/assets/144050399/40796185-72fb-4755-b30e-fb04a7ef6b2e)
+
 ![Insurance_SQL2](https://github.com/shanukumar007/Integrated-Analysis-of-Insurance-Operations-for-Enhanced-Efficiency/assets/144050399/3d3f911c-1de3-46cf-a2d5-a7f6c5f95137)
 
 KPI's
