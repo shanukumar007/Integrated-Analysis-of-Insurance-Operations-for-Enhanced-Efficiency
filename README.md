@@ -22,7 +22,7 @@ KPI's
 4.No of meeting by account executive
 -In this KPI we find Abhinav Shivam is more meeting count compare to others account executive.
 
-![Insurance_Tableau](https://github.com/shanukumar007/Integrated-Analysis-of-Insurance-Operations-for-Enhanced-Efficiency/assets/144050399/e5fcc8b1-884c-4b20-807e-cc75fa16e63d)
+![Screenshot 2024-01-07 120704](https://github.com/shanukumar007/Integrated-Analysis-of-Insurance-Operations-for-Enhanced-Efficiency/assets/144050399/d4ec56ae-2f9f-48a7-adfb-455c34444f0c)
 
 
 
